@@ -47,5 +47,68 @@ figcaption
   @media screen and (max-width: $bp-max-sm)
     background-image: url("../assets/curso/portada/fondo-banner-principal-mobile.png") !important
 
+.bg-color-secundario
+  background-color: $color-secundario
 .bg-color-secundario-s5
   background-color: $color-secundario-s5
+.bg-color-primario-p5
+  background-color: $color-primario-p5
+.bg-color-primario-gradiente
+  background: #FAFBF1
+  background: linear-gradient(90deg, rgba(250, 251, 241, 1) 0%, rgba(233, 237, 199, 1) 100%)
+
+.banner-text
+  border-radius: 61px 0 61px 0
+  padding: 30px
+  margin-top: -40px
+
+@media (min-width: 992px)
+  .banner-text
+    margin-top: -60px
+
+.tabla-a
+  td
+    text-align: start
+
+.checklist
+  li
+    padding-left: 20px
+    position: relative
+    margin-bottom: 10px
+    &::before
+      content: ""
+      position: absolute
+      height: 7px
+      width: 7px
+      background-color: $color-secundario
+      border-radius: 50%
+      left: 3px
+      top: 9px
+
+.slyder-a
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+
+  .slyder-a__bullets__item
+    margin: 0 8px
+    background-color: #7A8045
+    border-color: #7A8045
+    opacity: 0.4
+    &.slyder-a__bullets__item--active
+      opacity: 1
+
+.banana-title
+  width: fit-content
+  padding: 7px 20px 8px 40px
+  margin-left: 30px
+  position: relative
+  background-color: #D8DDE3
+  border-radius: 20px
+  @media screen and (min-width: $bp-min-md)
+    padding-left: 56px
+  &::before
+    content: url("../assets/curso/temas/tema1/banana-title.svg")
+    position: absolute
+    left: -34px
+    top: 50%
+    transform: translateY(-50%)

@@ -37,12 +37,12 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Generalidades de las buenas prácticas agrícolas',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'NTC 5400',
             hash: 't_1_1',
           },
         ],
@@ -58,6 +58,36 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo: 'Tema 3',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema8',
+        numero: '8',
+        titulo: 'Plan de manejo ambiental',
         desarrolloContenidos: true,
       },
     ],
