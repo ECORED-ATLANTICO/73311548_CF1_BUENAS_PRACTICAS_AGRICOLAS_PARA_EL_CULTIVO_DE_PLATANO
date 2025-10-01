@@ -81,7 +81,7 @@ export default {
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        titulo: 'Agroquímicos y abonos orgánicos',
         desarrolloContenidos: true,
       },
       {

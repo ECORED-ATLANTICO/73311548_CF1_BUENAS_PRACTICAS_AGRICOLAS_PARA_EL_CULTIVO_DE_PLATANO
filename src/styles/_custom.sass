@@ -112,3 +112,40 @@ figcaption
     left: -34px
     top: 50%
     transform: translateY(-50%)
+
+.bg-slider
+  background-image: url('../assets/curso/temas/tema7/bg-slider.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+
+.bg-palmera
+  background-image: url('../assets/curso/temas/tema7/bg-tarjeta.png')
+  background-position: center
+  background-size: cover
+  background-repeat: no-repeat
+  height: calc( 100% -  16px)
+
+.w-83
+  width: 83px
+  margin: 0 auto
+
+.tabs-a
+  @media (min-width: 992px) 
+    .row
+      .col-lg-4 
+        flex: 0 0 auto
+        width: 40%
+      .col-lg-8 
+        flex: 0 0 auto
+        width: 60%
+  @media (min-width: 1200px) 
+    .row
+      .col-xl-3 
+        flex: 0 0 auto
+        width: 38%
+      .col-xl-9
+        flex: 0 0 auto
+        width: 62%
+.tabs-a__content-item
+  height: -webkit-fill-available
