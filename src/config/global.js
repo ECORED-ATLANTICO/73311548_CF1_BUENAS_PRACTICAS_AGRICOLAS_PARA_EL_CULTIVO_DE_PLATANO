@@ -69,13 +69,13 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        titulo: 'Seguridad y bienestar social del trabajador',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Ventajas y desventajas de la implementación de las BPA',
+        titulo: 'Requisitos para la implementación de las BPA',
         desarrolloContenidos: true,
       },
       {

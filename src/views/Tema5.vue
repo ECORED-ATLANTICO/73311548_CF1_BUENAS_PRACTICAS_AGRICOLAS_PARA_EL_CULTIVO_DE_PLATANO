@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
-      h1 Tema 5
+      h1 Seguridad y bienestar social del trabajador
     .bloque-texto-g.color-secundario-s10.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/1.jpg')})`}"
