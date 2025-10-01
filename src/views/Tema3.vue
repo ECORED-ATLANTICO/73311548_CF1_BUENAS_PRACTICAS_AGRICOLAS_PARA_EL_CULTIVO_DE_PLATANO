@@ -16,7 +16,7 @@
           p La inocuidad son las condiciones y medidas necesarias para garantizar que los alimentos sean seguros para el consumo humano y estén libres de contaminantes físicos, químicos o biológicos. En el caso del plátano, un cultivo de gran importancia económica y alimentaria en Colombia y otros países tropicales, la inocuidad es clave para asegurar la aceptación en los mercados nacionales e internacionales.
           p.mb-0 El plátano, al ser un fruto climatérico, es altamente perecedero y susceptible a contaminaciones en cualquier fase de la producción: desde la siembra hasta la poscosecha. Por ello, la implementación de prácticas adecuadas resulta esencial para reducir pérdidas, prolongar la vida útil y cumplir con requisitos sanitarios internacionales.
 
-    h5(data-aos='zoom-in-right').mb-5
+    h4(data-aos='zoom-in-right').mb-5
       span.banana-title Principales riesgos para la inocuidad del plátano
 
     .row.justify-content-center.align-items-center.mb-5
@@ -51,7 +51,7 @@
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema3/2.png', alt='Imagen ilustrativa' data-aos='fade-up')
 
-    h5(data-aos='zoom-in-right').mb-4
+    h4(data-aos='zoom-in-right').mb-4
       span.banana-title Protección sanitaria
 
     p.mb-4 Se enfoca en prevenir, controlar y erradicar plagas y enfermedades que afectan al plátano, garantizando su calidad y seguridad. Entre las estrategias principales se encuentran:
@@ -93,7 +93,7 @@
             figure
               img.my-3(src='@/assets/curso/temas/tema3/10.png', alt='Imagen decorativa')
 
-    h5(data-aos='zoom-in-right').mb-5
+    h4(data-aos='zoom-in-right').mb-5
       span.banana-title Importancia de la Inocuidad y la Protección Sanitaria
 
     .cajon.color-secundario.p-4.mb-5
