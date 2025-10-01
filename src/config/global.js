@@ -51,13 +51,13 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Calidad en el sector agrícola',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Inocuidad en el plátano y protección sanitaria',
         desarrolloContenidos: true,
       },
       {
