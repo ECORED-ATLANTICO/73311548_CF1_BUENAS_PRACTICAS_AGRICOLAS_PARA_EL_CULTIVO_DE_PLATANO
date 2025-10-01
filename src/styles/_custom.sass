@@ -106,6 +106,7 @@ figcaption
   position: relative
   background-color: #D8DDE3
   border-radius: 20px
+  display: block
   @media screen and (min-width: $bp-min-md)
     padding-left: 56px
   &::before
@@ -152,5 +153,28 @@ figcaption
       .col-xl-9
         flex: 0 0 auto
         width: 62%
+
 .tabs-a__content-item
   height: -webkit-fill-available
+
+.tabs-c__header
+  margin-bottom: 0
+
+.list-image
+  background-color: #ECEEF1
+  position: relative
+  margin-right: 10px
+  border-bottom-right-radius: 22px
+  height: 100%
+
+  .checklist
+    margin-bottom: 0
+    li::before
+      top: 7px
+
+  &__img
+    width: 76px
+    height: 76px
+    position: absolute
+    right: -10px
+    top: -20px
