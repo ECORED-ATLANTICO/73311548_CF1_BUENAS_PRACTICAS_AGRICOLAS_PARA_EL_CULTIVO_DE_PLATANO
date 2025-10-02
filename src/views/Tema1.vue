@@ -76,8 +76,190 @@
         p La Norma Técnica Colombiana NTC 5400 establece los requisitos generales para la implementación de las buenas prácticas agrícolas (BPA) en la producción de frutas, hierbas aromáticas culinarias y hortalizas frescas; con el propósito de garantizar la inocuidad de los alimentos, la sostenibilidad ambiental y la seguridad de los trabajadores rurales.
         p.mb-0 Esta norma, elaborada por ICONTEC en articulación con el sector agrícola, se convierte en una guía esencial para pequeños, medianos y grandes productores, al traducir los principios de las BPA en acciones concretas aplicables en el campo. Además, su adopción permite fortalecer la competitividad del sector, facilitar el acceso a mercados nacionales e internacionales y contribuir al desarrollo sostenible del agro colombiano.
 
-    h4(data-aos='zoom-in-right').mb-4
+    h4(data-aos='zoom-in-right').mb-5
       span.banana-title Estructura General de la NTC 5400
+
+    ImagenInfograficaB.color-secundario
+      template(v-slot:imagen)
+        figure
+          img(src='@/assets/curso/temas/tema1/map.png', alt='Mapa con una granja')
+
+      div(x="9%" y="80%" numero="1")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 1
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/8.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Objeto y alcance
+                  p Brindar requisitos generales para la implementación de buenas prácticas agrícolas (BPA) en frutas, hierbas aromáticas culinarias y hortalizas frescas, con énfasis en la inocuidad alimentaria, sostenibilidad y seguridad laboral.
+
+      div(x="18%" y="80%" numero="2")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 2
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Planeación del cultivo
+                  p Incluye criterios para la selección de terrenos, análisis de riesgos, manejo de suelos y planificación agronómica sostenible.
+
+      div(x="27%" y="80%" numero="3")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 3
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/10.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Manejo del agua
+                  p Detalla el uso del agua en distintas etapas:
+                  ul.checklist
+                    li Riego: características fisicoquímicas y microbiológicas adecuadas según normativa.
+                    li Aplicación de insumos: parámetros específicos como pH y dureza.
+                    li Poscosecha: agua potable según la legislación nacional.
+                  p Además, impone la necesidad de sistemas seguros de almacenamiento y registros adecuados.
+
+      div(x="36%" y="80%" numero="4")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 4
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/11.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Manejo del suelo
+                  p Incluye obligaciones como:
+                  ul.checklist
+                    li Realizar análisis fisicoquímicos y microbiológicos del suelo.
+                    li Adoptar medidas para prevenir erosión, compactación y pérdida de materia orgánica.
+                    li Promover prácticas como rotación de cultivos, cobertura del suelo y drenaje adecuado.
+
+      div(x="45%" y="80%" numero="5")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 5
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/12.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Material de propagación
+                  p Exige que el material utilizado (semillas, estacas, plántulas, etc.):
+                  ul.checklist
+                    li Sea certificado, libre de plagas y enfermedades.
+                    li Tenga procedencia documentada y cumpla con requisitos sanitarios.
+
+      div(x="54%" y="80%" numero="6")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 6
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/13.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Nutrición de las plantas
+                  p Incluye criterios sobre:
+                  ul.checklist
+                    li Diseño de programas de fertilización según análisis de suelo y tejido foliar.
+                    li Registro de aplicaciones (dosis, tipos, fechas).
+                    li Preferencia por abonos orgánicos registrados y su manejo seguro.
+                    li Limpieza y desinfección de herramientas usadas, y almacenamiento seguro de abonos orgánicos.
+
+      div(x="63%" y="80%" numero="7")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 7
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/14.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Prácticas de cosecha y poscosecha
+                  p Establece lineamientos para:
+                  ul.checklist
+                    li Higiene y limpieza de herramientas y maquinaria de cosecha.
+                    li Protección del producto contra contaminantes como lubricantes o vidrios.
+                    li Registro de condiciones y medidas preventivas en estas etapas
+
+      div(x="72%" y="80%" numero="8")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 8
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/15.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Registros y trazabilidad
+                  p Define la necesidad de contar con:
+                  ul.checklist
+                    li Documentación detallada de cada actividad agrícola (aplicaciones, limpieza, uso de insumos).
+                    li Sistemas que permitan rastrear el origen y manejo del producto
+
+      div(x="81%" y="80%" numero="9")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 9
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/16.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Bienestar y seguridad laboral
+                  p Establece obligaciones relacionadas con:
+                  ul.checklist
+                    li Condiciones seguras e higiénicas para los trabajadores.
+                    li Uso de equipos de protección personal.
+                    li Capacitación y salud ocupacional en el entorno productivo
+
+      div(x="90%" y="80%" numero="10")
+        .row.justify-content-center.m-0
+          .col-lg-10.position-relative
+            img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
+            .number-platano 
+              span 10
+            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+              .col-lg-3.p-0.d-none.d-lg-block           
+                img(src='@/assets/curso/temas/tema1/17.png', alt='Imagen decorativa')
+              .col-lg-7
+                .px-lg-4
+                  h5 Protección ambiental y sostenibilidad
+                  p Promueve la:
+                  ul.checklist
+                    li Conservación de recursos naturales (suelo, agua).
+                    li Disposición adecuada de desechos y control de contaminantes.
+                    li Aplicación de prácticas sostenibles como el uso racional de agroquímicos
+
+
+
+
+
 </template>
 
 <script>
