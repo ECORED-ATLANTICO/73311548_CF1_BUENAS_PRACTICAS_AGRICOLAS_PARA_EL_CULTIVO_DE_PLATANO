@@ -51,10 +51,14 @@ figcaption
   background-color: $color-secundario
 .bg-color-secundario-s5
   background-color: $color-secundario-s5
+.bg-color-primario
+  background-color: $color-primario
 .bg-color-primario-p5
   background-color: $color-primario-p5
 .bg-color-primario-p10
   background-color: $color-primario-p10
+.bg-color-terciario-t5
+  background-color: $color-terciario-t5
 .bg-color-terciario-t10
   background-color: $color-terciario-t10
 .bg-color-terciario-t20
@@ -213,7 +217,7 @@ figcaption
 
 .acordion
   &__activo
-    background-color: $color-terciario-t10
+    background-color: $color-terciario-t5
 
   .acordion__accion__btn--a
     background-color: #7A8045
@@ -239,3 +243,24 @@ figcaption
 .subtitle
   border-radius: 0 19px 0 19px
   background-color: #0A5B5B
+
+.pasos-b__header__item__dot
+  background-color: $color-primario
+  border-color: $color-primario
+
+.pasos-b__header__item__line-container
+  &::before
+    background-color: $color-primario
+  &::after
+    background-color: $color-primario
+
+.pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: $color-acento-botones
+  border-color: $color-acento-botones
+  &:hover
+    border-color: $color-acento-botones
+
+.pasos-b
+  .checklist
+    li::before
+      background-color: $color-acento-contenido

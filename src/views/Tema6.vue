@@ -93,7 +93,7 @@
       span.banana-title Componentes del almacenamiento de los insumos agrícolas
 
     TabsB.color-acento-contenido
-      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Condiciones de la bodega" :icono="require('@/assets/curso/temas/tema6/8.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Condiciones de la bodega" :icono="require('@/assets/curso/temas/tema6/8.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Condiciones de la bodega
@@ -106,7 +106,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/13.png', alt='Imagen decorativa')
 
-      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Organización interna
@@ -119,7 +119,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/14.png', alt='Imagen decorativa')
 
-      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Seguridad y bioseguridad
@@ -133,7 +133,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/15.png', alt='Imagen decorativa')
 
-      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Manejo de residuos y envases
@@ -145,7 +145,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/16.png', alt='Imagen decorativa')
 
-      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Documentación y trazabilidad
@@ -280,7 +280,7 @@
         .p-2.subtitle.text-white.text-center
           p.mb-0.fw-bold El suelo es el soporte físico y biológico del cultivo, por lo que su manejo adecuado es determinante para la productividad y sostenibilidad.
 
-    .row.align-items-center.justify-content-center
+    .row.align-items-center.justify-content-center.mb-5
       .col-8.col-sm-6.col-xl-4
         figure
           img.mb-4.mb-xl-0(src='@/assets/curso/temas/tema6/29.png', alt='Imagen ilustrativa' data-aos='fade-down')
@@ -315,10 +315,132 @@
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/33.svg")
 
+    h4(data-aos='zoom-in-right').mb-5
+      span.banana-title Selección de la semilla
 
+    .row.justify-content-center.mb-5
+      .col-lg-8
+        p.mb-4.mb-lg-0 La semilla es el punto de partida de todo proceso agrícola, y en el caso del plátano se refiere al material de propagación (cormos, hijuelos) o vitroplantas. Estas últimas son plantas que se producen mediante un método de propagación in vitro (dentro de un laboratorio, en condiciones controladas), utilizando técnicas de biotecnología vegetal.
+      .col-sm-6.col-lg-4
+        figure
+          img(src='@/assets/curso/temas/tema6/34.png', alt='Imagen ilustrativa' data-aos='fade-down') 
 
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
+          p.mb-0.fw-bold Los requisitos que deben cumplirse en el manejo de las semillas o material de propagación en el marco de las BPA son:
 
+    TabsC.color-acento-contenido.mb-5
+      .p-4.py-5.bg-color-terciario-t10(titulo="Material certificado")
+        .row.align-items-center
+          .col-md-8.col-lg-7.mb-4.mb-md-0
+            h5.mb-4 Material certificado
+            p.mb-0 Son semillas, hijuelos o vitroplantas que cuentan con un aval oficial o de un vivero autorizado. Garantizan que están libres de plagas y enfermedades y cumplen estándares de calidad genética y sanitaria.
+          .col-md-4
+            figure
+              img.my-3(src='@/assets/curso/temas/tema6/35.png', alt='Imagen decorativa')
 
+      .p-4.py-5.bg-color-terciario-t10(titulo="Adaptación climática")
+        .row.align-items-center
+          .col-md-8.col-lg-7.mb-4.mb-md-0
+            h5.mb-4 Adaptación climática
+            p.mb-0 Seleccionar variedades que se ajusten a las condiciones agroecológicas de la región (temperatura, altitud, humedad).
+          .col-md-4
+            figure
+              img.my-3(src='@/assets/curso/temas/tema6/36.png', alt='Imagen decorativa')
+
+      .p-4.py-5.bg-color-terciario-t10(titulo="Tratamientos previos")
+        .row.align-items-center
+          .col-md-8.col-lg-7.mb-4.mb-md-0
+            h5.mb-4 Tratamientos previos
+            p.mb-0 Son procedimientos aplicados a las semillas o hijuelos antes de la siembra. Incluyen lavado, desinfección con fungicidas, bioinsumos o agua caliente para eliminar patógenos. Con esto, buscan reducir el riesgo de enfermedades en el campo.
+          .col-md-4
+            figure
+              img.my-3(src='@/assets/curso/temas/tema6/37.png', alt='Imagen decorativa')
+
+      .p-4.py-5.bg-color-terciario-t10(titulo="Innovación tecnológica (vitroplantas)")
+        .row.align-items-center
+          .col-md-8.col-lg-7.mb-4.mb-md-0
+            h5.mb-4 Innovación tecnológica (vitroplantas)
+            p.mb-0 Uso de biotecnología para producir plantas en laboratorio bajo condiciones controladas. Las vitroplantas aseguran uniformidad en el cultivo, mayor resistencia y productividad. Se emplean especialmente en proyectos de tecnificación o exportación.
+          .col-md-4
+            figure
+              img.my-3(src='@/assets/curso/temas/tema6/38.png', alt='Imagen decorativa')
+
+    Separador
+    #t_6_5(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 6.5 Materias primas e insumos agrícolas
+
+    img.z-2(data-aos="fade-up")(src="@/assets/curso/temas/tema6/39.png", alt="Imagen decorativa")
+
+    .row.justify-content-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-down")
+        div.banner-text.bg-color-terciario-t10
+          p.mb-0 Las materias primas e insumos agrícolas son todos aquellos productos, materiales y recursos utilizados en las diferentes fases del proceso productivo, desde la preparación del terreno hasta la cosecha y poscosecha. En el marco de las BPA, la gestión de estos elementos busca garantizar la inocuidad, la sostenibilidad ambiental, la productividad y la seguridad del trabajador.
+
+    h4(data-aos='zoom-in-right').mb-5
+      span.banana-title Principales tipos de materias primas e insumos
+
+    .tarjeta.tarjeta--secundario-s10.p-4
+      PasosB.color-acento-contenido
+        .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
+          .col-8.col-md-6.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+          .col-lg-7
+            .p-4.rounded-3.bg-color-primario
+              h5 Material de propagación (semillas o plantulas)
+              ul.checklist
+                li <strong>Hijuelos</strong>: brotes laterales de plantas madres sanas
+                li <strong>Vitroplantas</strong>: plantas obtenidos por bio tecnología, libres de plagas y enfermedades.
+                li <strong>Semillas certificadas</strong>: avaladas por instituciones como el ICA en Colombia que garanticen sanidad y calidad genética.
+                
+        .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
+          .col-8.col-md-6.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+          .col-lg-7
+            .p-4.rounded-3.bg-color-primario
+              h5 Fertilizantes y enmiendas
+              ul.checklist
+                li <strong>Fertilizantes químicos</strong>: urea, NPK (nitrógeno, fosforo y potasio) entre otros para suplir nutrientes.
+                li <strong>Fertilizantes orgánicos</strong>: compost, estiércol bocashi, humus de lombriz.
+                li <strong>Enmiendas de suelo</strong>: cal agrícola, yeso, domolita, usadas para corregir pH y mejorar la estructura del suelo.
+
+        .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
+          .col-8.col-md-6.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+          .col-lg-7
+            .p-4.rounded-3.bg-color-primario
+              h5 Plaguicidas y bioinsumos
+              ul.checklist
+                li <strong>Plaguicidas químicos</strong>: insecticidas, fungicidas y herbicidas registrados y autorizados.
+                li <strong>Bioinsumos</strong>: biocontroladores (hongos, bacterias benéficas extractos vegetales) que ayudan a reducir plagas y enfermedades.
+                li <strong>Trampas y feromonas</strong>: herramientas para  manejo integrado de plagas. (MIP).
+
+        .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
+          .col-8.col-md-6.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+          .col-lg-7
+            .p-4.rounded-3.bg-color-primario
+              h5 Agua para riego
+              ul.checklist
+                li Es considerada una materia prima critica
+                li Debe provenir de fuentes limpias libre de contaminantes y cumplir parametros de inocuidad establecidos por la NTC 5400 y estandares internacionales.
+
+        .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
+          .col-8.col-md-6.col-lg-4
+            figure
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+          .col-lg-7
+            .p-4.rounded-3.bg-color-primario
+              h5 Otros insumos agrícolas complementarios
+              ul.checklist
+                li <strong>Sustratos</strong>: mezclas de tierra cascarilla de arroz, avena  usados para viveros.
+                li <strong>Plásticos agrícolas</strong>: bolsas para viveros, coberturas de suelo.
+                li <strong>Tutorado y amarre</strong>: cuerdas, estacas o materiales de soporte para el cultivo.
 
 
 
