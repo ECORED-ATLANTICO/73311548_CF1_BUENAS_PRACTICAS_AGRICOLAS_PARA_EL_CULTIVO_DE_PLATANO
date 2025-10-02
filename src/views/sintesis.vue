@@ -13,7 +13,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Las prácticas agrícolas en el cultivo de plátano buscan optimizar la producción con criterios de sostenibilidad e inocuidad. Incluyen el manejo eficiente del suelo, agua y material vegetal, el uso responsable de insumos y fertilizantes, y el mantenimiento preventivo de equipos y herramientas. Además, promueven la seguridad laboral y la implementación de planes de manejo ambiental, orientados a la conservación de recursos naturales, la gestión de residuos y la protección de la biodiversidad.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
