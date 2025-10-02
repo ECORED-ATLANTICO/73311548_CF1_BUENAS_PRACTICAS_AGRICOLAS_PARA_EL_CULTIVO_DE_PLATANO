@@ -93,7 +93,7 @@
       span.banana-title Componentes del almacenamiento de los insumos agrícolas
 
     TabsB.color-acento-contenido
-      .py-4.py-md-5.bg-color-terciario-t10(titulo="Condiciones de la bodega" :icono="require('@/assets/curso/temas/tema6/8.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Condiciones de la bodega" :icono="require('@/assets/curso/temas/tema6/8.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Condiciones de la bodega
@@ -106,7 +106,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/13.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5.bg-color-terciario-t10(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Organización interna
@@ -119,7 +119,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/14.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5.bg-color-terciario-t10(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Seguridad y bioseguridad
@@ -133,7 +133,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/15.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5.bg-color-terciario-t10(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Manejo de residuos y envases
@@ -145,7 +145,7 @@
             figure
               img(src='@/assets/curso/temas/tema6/16.png', alt='Imagen decorativa')
 
-      .py-4.py-md-5.bg-color-terciario-t10(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
+      .px-3.py-4.py-md-5.bg-color-terciario-t10(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
         .row.justify-content-center.align-items-center
           .col-md-8.col-lg-7.mb-4.mb-md-0
             h4 Documentación y trazabilidad
@@ -157,6 +157,163 @@
             figure
               img(src='@/assets/curso/temas/tema6/17.png', alt='Imagen decorativa')
 
+    Separador
+    #t_6_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 6.3 Equipos, utensilios y herramientas 
+
+    img.z-2(data-aos="fade-up")(src="@/assets/curso/temas/tema6/18.png", alt="Imagen decorativa")
+
+    .row.justify-content-center.z-2.mb-5
+      .col-lg-10(data-aos="fade-down")
+        div.banner-text.bg-color-terciario-t20
+          p.mb-0 El uso adecuado de equipos, utensilios y herramientas constituye un pilar fundamental en la implementación de las BPA, pues de su correcta selección, mantenimiento y manipulación depende la eficiencia de las labores agrícolas, la seguridad del trabajador y la inocuidad del producto. Una gestión deficiente de estos recursos puede provocar accidentes, contaminación cruzada, pérdidas económicas y afectación en la calidad del plátano.
+
+    AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--primario-p20")
+      .row.justify-content-center.align-items-center(titulo="Selección adecuada de equipos y herramientas")
+        .col-lg-7
+          ul.checklist
+            li Deben ser apropiados para el tipo de labor agrícola, evitando improvisaciones que pongan en riesgo al trabajador o al cultivo.
+            li Se recomienda emplear herramientas certificadas y de buena calidad, que garanticen resistencia y durabilidad.
+            li En el caso de equipos motorizados (fumigadoras, motosierras, bombas de riego, etc.), estos deben cumplir con las normas de seguridad industrial.
+        .col-sm-8.col-lg-5.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema6/19.png', alt='Imagen de acompañamiento')
+      .row.justify-content-center.align-items-center(titulo="Mantenimiento preventivo y correctivo")
+        .col-lg-7
+          ul.checklist
+            li Todo equipo y herramienta debe someterse a planes de mantenimiento periódico (lubricación, afilado, limpieza, calibración).
+            li El mantenimiento preventivo reduce la probabilidad de fallas durante las labores agrícolas y alarga la vida útil del equipo.
+            li Cuando se detecte un daño, debe aplicarse un mantenimiento correctivo inmediato para evitar riesgos de accidentes.
+        .col-sm-8.col-lg-5.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema6/20.png', alt='Imagen de acompañamiento')
+      .row.justify-content-center.align-items-center(titulo="Higiene y limpieza")
+        .col-lg-7
+          ul.checklist
+            li Las herramientas y utensilios en contacto con el plátano o con insumos agrícolas deben limpiarse y desinfectarse antes y después de cada uso.
+            li Es indispensable evitar la contaminación cruzada entre insumos químicos y productos destinados al consumo humano.
+            li El almacenamiento debe hacerse en lugares específicos, ventilados y libres de humedad para evitar corrosión.
+        .col-sm-8.col-lg-5.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema6/21.png', alt='Imagen de acompañamiento')
+      .row.justify-content-center.align-items-center(titulo="Seguridad en el uso")
+        .col-lg-7
+          ul.checklist
+            li Los trabajadores deben recibir capacitación en el uso seguro de cada herramienta o equipo.
+            li Es obligatorio el uso de equipos de protección personal (EPP) como guantes, gafas, cascos, botas de seguridad y protectores auditivos en el caso de maquinaria ruidosa.
+            li Se deben establecer protocolos claros de operación, transporte y almacenamiento de los equipos.
+        .col-sm-8.col-lg-5.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema6/22.png', alt='Imagen de acompañamiento')
+      .row.justify-content-center.align-items-center(titulo="Registro y control")
+        .col-lg-7
+          ul.checklist
+            li Es recomendable llevar inventarios de equipos y herramientas, con registro de fechas de mantenimiento y asignación a los trabajadores.
+            li En equipos de aplicación de agroquímicos, deben documentarse las calibraciones realizadas y el personal autorizado para su uso.
+            li Estos registros son exigidos en auditorías de certificaciones como NTC 5400, pues demuestran trazabilidad y responsabilidad en el manejo de recursos.
+        .col-sm-8.col-lg-5.col-xl-4
+          figure
+            img(src='@/assets/curso/temas/tema6/22.png', alt='Imagen de acompañamiento')
+
+    Separador
+    #t_6_4(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
+      h3 6.4 Agua, suelo y semillas
+
+    .fullwidth-bg.fullwidth-bg--1
+    .row.justify-content-center.align-items-center.z-2.mb-5
+      .col-lg-11
+        p.mb-0 El agua, el suelo y las semillas son recursos fundamentales en la producción agrícola, pues constituyen la base para garantizar el rendimiento, la inocuidad y la sostenibilidad del cultivo de plátano. La implementación de BPA exige que estos elementos se manejen con criterios técnicos, ambientales y sanitarios que aseguren la calidad del producto y la protección de los ecosistemas.
+      .d-none.d-lg-block.col-lg-1
+        figure
+          img.z-2(src="@/assets/curso/temas/tema6/24.svg", alt="Imagen decorativa" data-aos="fade-up")
+
+    h4(data-aos='zoom-in-right').mb-5
+      span.banana-title Agua
+
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
+          p.mb-0.fw-bold El agua utilizada en la agricultura debe cumplir con estándares de calidad que eviten la contaminación del cultivo y del producto final.
+
+    .row.justify-content-center.z-2.mb-4.mb-lg-5
+      .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(data-aos="fade-down")(src="@/assets/curso/temas/tema6/25.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.p-4.bg-color-secundario-s20
+            h4.mb-4 Fuente segura
+            p Debe provenir de sistemas de abastecimiento limpios y protegidos, evitando contacto con aguas residuales o contaminadas.
+
+      .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(data-aos="fade-down")(src="@/assets/curso/temas/tema6/26.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.p-4.bg-color-terciario-t20
+            h4.mb-4 Monitoreo de calidad
+            p Análisis periódicos de parámetros fisicoquímicos y microbiológicos (pH, coliformes, turbidez, metales pesados).
+
+      .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(data-aos="fade-down")(src="@/assets/curso/temas/tema6/27.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.p-4.bg-color-secundario-s20
+            h4.mb-4 Uso eficiente
+            p Implementación de sistemas de riego tecnificado (goteo, aspersión) para reducir pérdidas por evaporación y escorrentía.
+
+      .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(data-aos="fade-down")(src="@/assets/curso/temas/tema6/28.png", alt="Imagen decorativa")
+          .crd_hover_txt--body.p-4.bg-color-terciario-t20
+            h4.mb-4 Protección de cuerpos de agua
+            p Mantener franjas de amortiguación y no aplicar agroquímicos cerca de ríos, quebradas o nacimientos.
+
+    h4(data-aos='zoom-in-right').mb-5
+      span.banana-title Suelo
+
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
+          p.mb-0.fw-bold El suelo es el soporte físico y biológico del cultivo, por lo que su manejo adecuado es determinante para la productividad y sostenibilidad.
+
+    .row.align-items-center.justify-content-center
+      .col-8.col-sm-6.col-xl-4
+        figure
+          img.mb-4.mb-xl-0(src='@/assets/curso/temas/tema6/29.png', alt='Imagen ilustrativa' data-aos='fade-down')
+      .col-xl-8
+        TabsA.color-acento-contenido
+          .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Análisis de fertilidad")
+            .row.align-items-center.pt-lg-4
+              .col-8
+                p.mb-0 Antes de la siembra, se debe realizar un diagnóstico para identificar pH, nutrientes y necesidades de corrección.
+              .col-3
+                figure
+                  img.w-83(src="@/assets/curso/temas/tema6/30.svg")
+          .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Conservación")
+            .row.align-items-center.pt-lg-4
+              .col-8
+                p.mb-0 Prácticas como rotación de cultivos, siembra de coberturas vivas y barreras contra erosión.
+              .col-3
+                figure
+                  img.w-83(src="@/assets/curso/temas/tema6/31.svg")
+          .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Fertilización balanceada")
+            .row.align-items-center.pt-lg-4
+              .col-8
+                p.mb-0 Aplicación de nutrientes de acuerdo con los resultados de análisis de suelos, evitando excesos que perjudiquen el ambiente.
+              .col-3
+                figure
+                  img.w-83(src="@/assets/curso/temas/tema6/32.svg")
+          .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Manejo de residuos")
+            .row.align-items-center.pt-lg-4
+              .col-8
+                p.mb-0 Incorporación de materia orgánica y desechos de cosecha para mejorar la estructura y la biodiversidad del suelo.
+              .col-3
+                figure
+                  img.w-83(src="@/assets/curso/temas/tema6/33.svg")
 
 
 

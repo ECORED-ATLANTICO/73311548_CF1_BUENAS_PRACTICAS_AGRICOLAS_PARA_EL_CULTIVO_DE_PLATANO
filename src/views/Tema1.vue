@@ -14,9 +14,9 @@
         div.banner-text.bg-color-primario-gradiente
           p.mb-0 Las buenas prácticas agrícolas (BPA), son un conjunto de principios, normas y procedimientos aplicados en la producción, cosecha y poscosecha de los cultivos agrícolas, cuyo propósito principal es garantizar alimentos seguros, de calidad y obtenidos de manera sostenible. Se fundamentan en el equilibrio entre productividad, cuidado del medio ambiente, bienestar de los trabajadores y satisfacción de los consumidores.
 
-    .row.justify-content-center.mb-2
-      .col
-        .p-2.rounded-top-4.bg-color-secundario.text-white.text-center
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
           p.mb-0.fw-bold Los principios de las BPA son los siguientes:
 
     .tarjeta.bg-color-secundario-s5.p-4.mb-5

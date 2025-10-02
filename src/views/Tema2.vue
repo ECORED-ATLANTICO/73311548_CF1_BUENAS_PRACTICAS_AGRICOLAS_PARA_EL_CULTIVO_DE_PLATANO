@@ -43,9 +43,9 @@
         .p-4.bg-color-primario-p10.rounded-3
           p Son instituciones nacionales e internacionales encargadas de verificar que los procesos productivos cumplan con estándares de calidad, sostenibilidad y seguridad alimentaria. Estas entidades evalúan aspectos como el manejo del suelo, el uso adecuado de insumos, la protección de los trabajadores y la preservación del medio ambiente.
 
-    .row.justify-content-center.mb-3
-      .col
-        .p-2.rounded-top-4.bg-color-secundario.text-white.text-center
+    .row.justify-content-center.mb-4
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
           p.mb-0.fw-bold En Colombia, quienes tienen relación con la certificación en buenas prácticas agropecuarias son:
 
     .row.align-items-stretch.justify-content-center

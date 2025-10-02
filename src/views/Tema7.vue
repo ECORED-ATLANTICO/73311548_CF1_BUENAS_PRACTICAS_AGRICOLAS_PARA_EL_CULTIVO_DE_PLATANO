@@ -13,18 +13,19 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 Representan dos categorías de insumos agrícolas que, aunque con naturalezas y funciones diferentes, son esenciales para la productividad y sostenibilidad del sector agrícola. En el marco de las Buenas Prácticas Agrícolas (BPA), ambos insumos deben manejarse de forma responsable y técnica, de modo que contribuyan tanto al incremento de la productividad como a la protección de los recursos naturales y la seguridad alimentaria, siendo fundamentales para el cultivo del plátano y otros sistemas agrícolas de importancia económica y social.
 
-    h4(data-aos='zoom-in-right').mb-5
+    .fullwidth-bg.fullwidth-bg--1
+    h4(data-aos='zoom-in-right').mb-5.z-2
       span.banana-title Agroquímicos
 
-    .cajon.color-secundario.p-4.mb-5
+    .cajon.color-secundario.p-4.mb-5.z-2
       p.mb-0 Compuestos de origen sintético o químico, se emplean principalmente para proteger los cultivos del ataque de plagas, malezas y enfermedades, así como para proveer nutrientes de manera rápida y específica; sin embargo, su uso debe estar estrictamente regulado para evitar impactos negativos en la salud humana, el medio ambiente y la inocuidad de los alimentos.
 
-    .row.justify-content-center.mb-3
-      .col-12
-        .p-2.rounded-top-4.bg-color-secundario.text-white.text-center
+    .row.justify-content-center.mb-4.z-2
+      .col-lg-10
+        .p-2.subtitle.text-white.text-center
           p.mb-0.fw-bold Los tipos de agroquímicos son los siguientes:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.z-2
       .col-8.col-lg-4.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema7/2.png', alt='Imagen ilustrativa' data-aos='fade-up')
