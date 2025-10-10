@@ -95,7 +95,7 @@
     TabsB.color-acento-contenido
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Condiciones de la bodega" :icono="require('@/assets/curso/temas/tema6/8.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h4 Condiciones de la bodega
             ul.checklist
               li Ubicación de áreas específicas, separadas de los cultivos, área de empaque y zona de descanso de los trabajadores.
@@ -108,7 +108,7 @@
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h4 Organización interna
             ul.checklist
               li Los insumos deben almacenarse en estanterías resistentes, nunca en contacto directo con el suelo.
@@ -121,7 +121,7 @@
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h4 Seguridad y bioseguridad
             ul.checklist
               li La bodega debe estar cerrada con llave y el acceso  debe ser restringido.
@@ -135,7 +135,7 @@
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h4 Manejo de residuos y envases
             ul.checklist
               li Los envases vacíos deben enjuagarse, perforarse y almacenarse en contenedores específicos.
@@ -147,7 +147,7 @@
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h4 Documentación y trazabilidad
             ul.checklist
               li Mantener registros actualizados del inventario de insumos: cantidades fechas de ingreso, uso y responsable.
@@ -268,7 +268,7 @@
           .crd_hover_txt--img
             figure
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema6/28.png", alt="Imagen decorativa")
-          .crd_hover_txt--body.p-4.bg-color-terciario-t20
+          .crd_hover_txt--body.p-4.pt-xl-2.bg-color-terciario-t20
             h4.mb-4 Protección de cuerpos de agua
             p Mantener franjas de amortiguación y no aplicar agroquímicos cerca de ríos, quebradas o nacimientos.
 
@@ -288,30 +288,30 @@
         TabsA.color-acento-contenido
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Análisis de fertilidad")
             .row.align-items-center.pt-lg-4
-              .col-8
-                p.mb-0 Antes de la siembra, se debe realizar un diagnóstico para identificar pH, nutrientes y necesidades de corrección.
-              .col-3
+              .col-12.col-sm-8
+                p.mb-4.mb-lg-0 Antes de la siembra, se debe realizar un diagnóstico para identificar pH, nutrientes y necesidades de corrección.
+              .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/30.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Conservación")
             .row.align-items-center.pt-lg-4
-              .col-8
-                p.mb-0 Prácticas como rotación de cultivos, siembra de coberturas vivas y barreras contra erosión.
-              .col-3
+              .col-12.col-sm-8
+                p.mb-4.mb-lg-0 Prácticas como rotación de cultivos, siembra de coberturas vivas y barreras contra erosión.
+              .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/31.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Fertilización balanceada")
             .row.align-items-center.pt-lg-4
-              .col-8
-                p.mb-0 Aplicación de nutrientes de acuerdo con los resultados de análisis de suelos, evitando excesos que perjudiquen el ambiente.
-              .col-3
+              .col-12.col-sm-8
+                p.mb-4.mb-lg-0 Aplicación de nutrientes de acuerdo con los resultados de análisis de suelos, evitando excesos que perjudiquen el ambiente.
+              .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/32.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Manejo de residuos")
             .row.align-items-center.pt-lg-4
-              .col-8
-                p.mb-0 Incorporación de materia orgánica y desechos de cosecha para mejorar la estructura y la biodiversidad del suelo.
-              .col-3
+              .col-12.col-sm-8
+                p.mb-4.mb-lg-0 Incorporación de materia orgánica y desechos de cosecha para mejorar la estructura y la biodiversidad del suelo.
+              .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/33.svg")
 
@@ -333,37 +333,37 @@
     TabsC.color-acento-contenido.mb-5
       .p-4.py-5.bg-color-terciario-t10(titulo="Material certificado")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Material certificado
             p.mb-0 Son semillas, hijuelos o vitroplantas que cuentan con un aval oficial o de un vivero autorizado. Garantizan que están libres de plagas y enfermedades y cumplen estándares de calidad genética y sanitaria.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/35.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Adaptación climática")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Adaptación climática
             p.mb-0 Seleccionar variedades que se ajusten a las condiciones agroecológicas de la región (temperatura, altitud, humedad).
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/36.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Tratamientos previos")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Tratamientos previos
             p.mb-0 Son procedimientos aplicados a las semillas o hijuelos antes de la siembra. Incluyen lavado, desinfección con fungicidas, bioinsumos o agua caliente para eliminar patógenos. Con esto, buscan reducir el riesgo de enfermedades en el campo.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/37.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Innovación tecnológica (vitroplantas)")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Innovación tecnológica (vitroplantas)
             p.mb-0 Uso de biotecnología para producir plantas en laboratorio bajo condiciones controladas. Las vitroplantas aseguran uniformidad en el cultivo, mayor resistencia y productividad. Se emplean especialmente en proyectos de tecnificación o exportación.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/38.png', alt='Imagen decorativa')
 

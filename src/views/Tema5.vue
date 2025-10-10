@@ -19,7 +19,7 @@
     .cajon.color-secundario.p-4.mb-5
       p.mb-0 El cultivo del plátano implica actividades de riesgo como la manipulación de agroquímicos, el uso de herramientas cortopunzantes, el transporte de racimos pesados y la exposición prolongada a condiciones climáticas adversas. Para minimizar estos riesgos, se deben implementar medidas como:
 
-    .row.mb-2.mb-lg-5.align-items-stretch.justify-content-center
+    .row.mb-5.align-items-stretch.justify-content-center
       .col-md-6.col-lg-5.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-primario.h-100(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
@@ -91,7 +91,7 @@
           .crd_hover_txt--img
             figure
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema5/9.png", alt="Imagen decorativa")
-          .crd_hover_txt--body.p-4.pt-4.pt-xl-2.bg-color-secundario-s20
+          .crd_hover_txt--body.p-4.pt-4.pt-md-2.pt-lg-4.pt-xl-2.bg-color-secundario-s20
             h4.mb-4 Programas de salud ocupacional
             p Vacunación, chequeos médicos periódicos y actividades de prevención de enfermedades laborales.
 

@@ -59,37 +59,37 @@
     TabsC.color-acento-contenido.mb-5
       .p-4.py-5.bg-color-primario-p5(titulo="Manejo integrado de plagas (MIP)")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Manejo integrado de plagas (MIP)
             p.mb-0 Combinación de prácticas culturales, biológicas y químicas para reducir la incidencia de plagas de manera sostenible
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/6.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Uso responsable de agroquímicos")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Uso responsable de agroquímicos
             p.mb-0 Aplicación solo de productos autorizados, en dosis correctas, con registros detallados y evitando riesgos de intoxicación en trabajadores.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/7.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Higiene y bioseguridad")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Higiene y bioseguridad
             p.mb-0 Limpieza de herramientas, control del acceso de personas y vehículos a las áreas de cultivo para reducir la diseminación de patógenos.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/8.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Monitoreo y diagnóstico temprano")
         .row.align-items-center
-          .col-md-8.col-lg-7.mb-4.mb-md-0
+          .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Monitoreo y diagnóstico temprano
             p.mb-0 Inspecciones periódicas de lotes para identificar plagas y enfermedades, y tomar decisiones rápidas de control.
-          .col-md-4
+          .col-10.col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/10.png', alt='Imagen decorativa')
 
@@ -100,28 +100,28 @@
       p La inocuidad y la protección sanitaria en la producción agrícola, especialmente en cultivos como el plátano, son fundamentales para garantizar alimentos seguros, libres de contaminantes y con calidad óptima para el consumo humano. Su importancia radica en:
 
     .row.justify-content-center.align-items-stretch
-      .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
+      .col-sm-6.col-lg-4.col-xl-3.mb-5.mb-xl-0
         .p-3.py-4.bg-color-primario-p5.list-image
           img.list-image__img(src='@/assets/curso/temas/tema3/11.svg', alt='Imagen decorativa' data-aos="fade-right")
           ul.checklist
             li 
               h5.mb-4 Salud pública: 
           p.mb-0 evita riesgos de intoxicaciones y transmisión de enfermedades.
-      .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
+      .col-sm-6.col-lg-4.col-xl-3.mb-5.mb-xl-0
         .p-3.py-4.bg-color-primario-p5.list-image
           img.list-image__img(src='@/assets/curso/temas/tema3/12.svg', alt='Imagen decorativa' data-aos="fade-right")
           ul.checklist
             li 
               h5.mb-0 Acceso a mercados: 
           p.mb-0 el cumplimiento de normas internacionales abre oportunidades de exportación.
-      .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
+      .col-sm-6.col-lg-4.col-xl-3.mb-5.mb-xl-0
         .p-3.py-4.bg-color-primario-p5.list-image
           img.list-image__img(src='@/assets/curso/temas/tema3/13.svg', alt='Imagen decorativa' data-aos="fade-right")
           ul.checklist
             li 
               h5.mb-4 Sostenibilidad: 
           p.mb-0 reduce el impacto ambiental de la producción intensiva.
-      .col-sm-6.col-lg-4.col-xl-3.mb-4.mb-xl-0
+      .col-sm-6.col-lg-4.col-xl-3.mb-5.mb-xl-0
         .p-3.py-4.bg-color-primario-p5.list-image
           img.list-image__img(src='@/assets/curso/temas/tema3/14.svg', alt='Imagen decorativa' data-aos="fade-right")
           ul.checklist
