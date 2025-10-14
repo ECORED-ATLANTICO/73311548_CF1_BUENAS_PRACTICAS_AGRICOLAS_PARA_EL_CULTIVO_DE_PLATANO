@@ -102,26 +102,26 @@
               li El piso debe ser firme y fácil de limpiar.
               li Las paredes y techos deben proteger de la humedad.
               li Contar con ventilación natural o forzada que evite acumulaciones de vapores tóxicos.
-          .col-md-4.col-lg-3
+          .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/13.png', alt='Imagen decorativa')
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Organización interna" :icono="require('@/assets/curso/temas/tema6/9.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+          .col-lg-7.mb-4.mb-lg-0
             h4 Organización interna
             ul.checklist
               li Los insumos deben almacenarse en estanterías resistentes, nunca en contacto directo con el suelo.
               li Se recomienda la separación por categorías: plaguicidas fertilizantes, bio insumos y equipos de aplicación.
               li Los productos deben estar identificados y etiquetados.
               li Implementar el método PEPS (primero en entrar, primero en salir) para evitar vencimiento de productos.
-          .col-md-4.col-lg-3
+          .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/14.png', alt='Imagen decorativa')
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Seguridad y bioseguridad" :icono="require('@/assets/curso/temas/tema6/10.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+          .col-lg-7.mb-4.mb-lg-0
             h4 Seguridad y bioseguridad
             ul.checklist
               li La bodega debe estar cerrada con llave y el acceso  debe ser restringido.
@@ -129,31 +129,31 @@
               li Disponer de equipos de protección personal para la manipulación de insumos.
               li Tener un botiquín de primeros auxilios y un kit para derrames.
               li Contar con extintores y protocolos de emergencia visibles.
-          .col-md-4.col-lg-3
+          .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/15.png', alt='Imagen decorativa')
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Manejo de residuos y envases" :icono="require('@/assets/curso/temas/tema6/11.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+          .col-lg-7.mb-4.mb-lg-0
             h4 Manejo de residuos y envases
             ul.checklist
               li Los envases vacíos deben enjuagarse, perforarse y almacenarse en contenedores específicos.
               li Nunca deben desecharse en fuentes de aguas, y no mezclarse con basura con basura común.
               li Debe existir un convenio o plan con gestores autorizados para la recolección de residuos peligrosos.
-          .col-md-4.col-lg-3
+          .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/16.png', alt='Imagen decorativa')
 
       .px-3.py-4.py-md-5.bg-color-terciario-t5(titulo="Documentación y trazabilidad" :icono="require('@/assets/curso/temas/tema6/12.svg')")
         .row.justify-content-center.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+          .col-lg-7.mb-4.mb-lg-0
             h4 Documentación y trazabilidad
             ul.checklist
               li Mantener registros actualizados del inventario de insumos: cantidades fechas de ingreso, uso y responsable.
               li Documentar la aplicación en campo: lote, dosis, trabajador que lo aplico y condiciones climáticas.
               li Los registros facilitan auditorias, certificaciones y garantizan la trazabilidad en toda la cadena de producción.
-          .col-md-4.col-lg-3
+          .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/17.png', alt='Imagen decorativa')
 
@@ -287,28 +287,28 @@
       .col-xl-8
         TabsA.color-acento-contenido
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Análisis de fertilidad")
-            .row.align-items-center.pt-lg-4
+            .row.align-items-center.justify-content-center.pt-lg-4
               .col-12.col-sm-8
                 p.mb-4.mb-lg-0 Antes de la siembra, se debe realizar un diagnóstico para identificar pH, nutrientes y necesidades de corrección.
               .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/30.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Conservación")
-            .row.align-items-center.pt-lg-4
+            .row.align-items-center.justify-content-center.pt-lg-4
               .col-12.col-sm-8
                 p.mb-4.mb-lg-0 Prácticas como rotación de cultivos, siembra de coberturas vivas y barreras contra erosión.
               .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/31.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Fertilización balanceada")
-            .row.align-items-center.pt-lg-4
+            .row.align-items-center.justify-content-center.pt-lg-4
               .col-12.col-sm-8
                 p.mb-4.mb-lg-0 Aplicación de nutrientes de acuerdo con los resultados de análisis de suelos, evitando excesos que perjudiquen el ambiente.
               .col-5.col-sm-3
                 figure
                   img.w-83(src="@/assets/curso/temas/tema6/32.svg")
           .tarjeta.bg-palmera.bg-palmera--black.p-4.pt-5(titulo="Manejo de residuos")
-            .row.align-items-center.pt-lg-4
+            .row.align-items-center.justify-content-center.pt-lg-4
               .col-12.col-sm-8
                 p.mb-4.mb-lg-0 Incorporación de materia orgánica y desechos de cosecha para mejorar la estructura y la biodiversidad del suelo.
               .col-5.col-sm-3
@@ -321,7 +321,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         p.mb-4.mb-lg-0 La semilla es el punto de partida de todo proceso agrícola, y en el caso del plátano se refiere al material de propagación (cormos, hijuelos) o vitroplantas. Estas últimas son plantas que se producen mediante un método de propagación in vitro (dentro de un laboratorio, en condiciones controladas), utilizando técnicas de biotecnología vegetal.
-      .col-sm-6.col-lg-4
+      .col-sm-8.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema6/34.png', alt='Imagen ilustrativa' data-aos='fade-down') 
 
@@ -332,38 +332,38 @@
 
     TabsC.color-acento-contenido.mb-5
       .p-4.py-5.bg-color-terciario-t10(titulo="Material certificado")
-        .row.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Material certificado
             p.mb-0 Son semillas, hijuelos o vitroplantas que cuentan con un aval oficial o de un vivero autorizado. Garantizan que están libres de plagas y enfermedades y cumplen estándares de calidad genética y sanitaria.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/35.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Adaptación climática")
-        .row.align-items-center
+        .row.align-items-center.justify-content-center
           .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Adaptación climática
             p.mb-0 Seleccionar variedades que se ajusten a las condiciones agroecológicas de la región (temperatura, altitud, humedad).
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/36.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Tratamientos previos")
-        .row.align-items-center
+        .row.align-items-center.justify-content-center
           .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Tratamientos previos
             p.mb-0 Son procedimientos aplicados a las semillas o hijuelos antes de la siembra. Incluyen lavado, desinfección con fungicidas, bioinsumos o agua caliente para eliminar patógenos. Con esto, buscan reducir el riesgo de enfermedades en el campo.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/37.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-terciario-t10(titulo="Innovación tecnológica (vitroplantas)")
-        .row.align-items-center
+        .row.align-items-center.justify-content-center
           .col-md-10.col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Innovación tecnológica (vitroplantas)
             p.mb-0 Uso de biotecnología para producir plantas en laboratorio bajo condiciones controladas. Las vitroplantas aseguran uniformidad en el cultivo, mayor resistencia y productividad. Se emplean especialmente en proyectos de tecnificación o exportación.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema6/38.png', alt='Imagen decorativa')
 

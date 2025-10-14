@@ -58,38 +58,38 @@
 
     TabsC.color-acento-contenido.mb-5
       .p-4.py-5.bg-color-primario-p5(titulo="Manejo integrado de plagas (MIP)")
-        .row.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Manejo integrado de plagas (MIP)
             p.mb-0 Combinación de prácticas culturales, biológicas y químicas para reducir la incidencia de plagas de manera sostenible
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/6.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Uso responsable de agroquímicos")
-        .row.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Uso responsable de agroquímicos
             p.mb-0 Aplicación solo de productos autorizados, en dosis correctas, con registros detallados y evitando riesgos de intoxicación en trabajadores.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/7.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Higiene y bioseguridad")
-        .row.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Higiene y bioseguridad
             p.mb-0 Limpieza de herramientas, control del acceso de personas y vehículos a las áreas de cultivo para reducir la diseminación de patógenos.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/8.png', alt='Imagen decorativa')
 
       .p-4.py-5.bg-color-primario-p5(titulo="Monitoreo y diagnóstico temprano")
-        .row.align-items-center
-          .col-md-10.col-lg-7.mb-4.mb-lg-0
+        .row.align-items-center.justify-content-center
+          .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Monitoreo y diagnóstico temprano
             p.mb-0 Inspecciones periódicas de lotes para identificar plagas y enfermedades, y tomar decisiones rápidas de control.
-          .col-10.col-sm-8.col-lg-4
+          .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/10.png', alt='Imagen decorativa')
 
