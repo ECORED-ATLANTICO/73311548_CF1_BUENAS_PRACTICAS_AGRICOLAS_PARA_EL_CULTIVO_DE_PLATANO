@@ -391,7 +391,7 @@
             .p-4.rounded-3.bg-color-primario
               h5 Material de propagación (semillas o plantulas)
               ul.checklist
-                li <strong>Hijuelos</strong>: brotes laterales de plantas madres sanas
+                li <strong>Hijuelos</strong>: brotes laterales de plantas madres sanas.
                 li <strong>Vitroplantas</strong>: plantas obtenidos por bio tecnología, libres de plagas y enfermedades.
                 li <strong>Semillas certificadas</strong>: avaladas por instituciones como el ICA en Colombia que garanticen sanidad y calidad genética.
                 

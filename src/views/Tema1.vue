@@ -90,7 +90,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 1
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/8.png', alt='Imagen decorativa')
               .col-lg-7
@@ -104,7 +104,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 2
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/9.png', alt='Imagen decorativa')
               .col-lg-7
@@ -118,7 +118,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 3
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/10.png', alt='Imagen decorativa')
               .col-lg-7
@@ -137,7 +137,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 4
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/11.png', alt='Imagen decorativa')
               .col-lg-7
@@ -155,7 +155,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 5
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/12.png', alt='Imagen decorativa')
               .col-lg-7
@@ -172,7 +172,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 6
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/13.png', alt='Imagen decorativa')
               .col-lg-7
@@ -191,7 +191,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 7
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/14.png', alt='Imagen decorativa')
               .col-lg-7
@@ -201,7 +201,7 @@
                   ul.checklist
                     li Higiene y limpieza de herramientas y maquinaria de cosecha.
                     li Protección del producto contra contaminantes como lubricantes o vidrios.
-                    li Registro de condiciones y medidas preventivas en estas etapas
+                    li Registro de condiciones y medidas preventivas en estas etapas.
 
       div(x="72%" y="80%" numero="8")
         .row.justify-content-center.m-0
@@ -209,7 +209,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 8
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/15.png', alt='Imagen decorativa')
               .col-lg-7
@@ -218,7 +218,7 @@
                   p Define la necesidad de contar con:
                   ul.checklist
                     li Documentación detallada de cada actividad agrícola (aplicaciones, limpieza, uso de insumos).
-                    li Sistemas que permitan rastrear el origen y manejo del producto
+                    li Sistemas que permitan rastrear el origen y manejo del producto.
 
       div(x="81%" y="80%" numero="9")
         .row.justify-content-center.m-0
@@ -226,7 +226,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 9
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/16.png', alt='Imagen decorativa')
               .col-lg-7
@@ -236,7 +236,7 @@
                   ul.checklist
                     li Condiciones seguras e higiénicas para los trabajadores.
                     li Uso de equipos de protección personal.
-                    li Capacitación y salud ocupacional en el entorno productivo
+                    li Capacitación y salud ocupacional en el entorno productivo.
 
       div(x="90%" y="80%" numero="10")
         .row.justify-content-center.m-0
@@ -244,7 +244,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 10
-            .row.bg-color-secundario-s10.p-3.p-lg-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/17.png', alt='Imagen decorativa')
               .col-lg-7
@@ -254,7 +254,7 @@
                   ul.checklist
                     li Conservación de recursos naturales (suelo, agua).
                     li Disposición adecuada de desechos y control de contaminantes.
-                    li Aplicación de prácticas sostenibles como el uso racional de agroquímicos
+                    li Aplicación de prácticas sostenibles como el uso racional de agroquímicos.
 
 
 

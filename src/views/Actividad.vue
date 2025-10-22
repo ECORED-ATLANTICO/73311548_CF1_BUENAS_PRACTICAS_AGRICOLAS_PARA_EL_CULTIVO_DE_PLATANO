@@ -20,7 +20,7 @@ export default {
       tema: 'Buenas prácticas agrícolas para el cultivo de plátano',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar buenas prácticas del cultivo del plátano.',
+        '<b> Objetivo:</b> identificar buenas prácticas del cultivo del plátano.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!.',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
