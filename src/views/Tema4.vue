@@ -12,7 +12,7 @@
     .row.justify-content-center.z-2.mb-5
       .col-lg-10(data-aos="fade-down")
         div.banner-text.bg-color-primario-gradiente
-          p.mb-0 La implementación de las Buenas Prácticas Agrícolas (BPA) representa una estrategia clave para fortalecer la inocuidad, la sostenibilidad y la competitividad en el sector agrícola. Sin embargo, aunque ofrecen múltiples beneficios en términos de calidad, acceso a mercados y protección ambiental, también implican ciertos retos y limitaciones que deben ser considerados por los productores.
+          p.mb-0 La implementación de las buenas prácticas agrícolas (BPA) representa una estrategia clave para fortalecer la inocuidad, la sostenibilidad y la competitividad en el sector agrícola. Sin embargo, aunque ofrecen múltiples beneficios en términos de calidad, acceso a mercados y protección ambiental, también implican ciertos retos y limitaciones que deben ser considerados por los productores.
 
     .row.justify-content-center
       .col-xl-10

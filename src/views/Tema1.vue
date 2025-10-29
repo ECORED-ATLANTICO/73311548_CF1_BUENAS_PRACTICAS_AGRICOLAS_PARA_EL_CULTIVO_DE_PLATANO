@@ -161,7 +161,7 @@
               .col-lg-7
                 .px-lg-4
                   h5 Material de propagación
-                  p Exige que el material utilizado (semillas, estacas, plántulas, etc.):
+                  p.mb-1 Exige que el material utilizado (semillas, estacas, plántulas, etc.):
                   ul.checklist
                     li Sea certificado, libre de plagas y enfermedades.
                     li Tenga procedencia documentada y cumpla con requisitos sanitarios.
@@ -191,7 +191,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 7
-            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/14.png', alt='Imagen decorativa')
               .col-lg-7
@@ -244,7 +244,7 @@
             img.hojas-platano-icono(src='@/assets/curso/temas/tema1/leafs.svg', alt='hojas')
             .number-platano 
               span 10
-            .row.bg-color-secundario-s10.p-3.p-xl-0.align-items-center.modal-content-card
+            .row.bg-color-secundario-s10.p-3.align-items-center.modal-content-card
               .col-lg-3.p-0.d-none.d-lg-block           
                 img(src='@/assets/curso/temas/tema1/17.png', alt='Imagen decorativa')
               .col-lg-7

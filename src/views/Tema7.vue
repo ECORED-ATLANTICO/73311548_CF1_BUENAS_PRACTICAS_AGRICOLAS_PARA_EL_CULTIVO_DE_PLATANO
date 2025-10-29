@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema7/1.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 Representan dos categorías de insumos agrícolas que, aunque con naturalezas y funciones diferentes, son esenciales para la productividad y sostenibilidad del sector agrícola. En el marco de las Buenas Prácticas Agrícolas (BPA), ambos insumos deben manejarse de forma responsable y técnica, de modo que contribuyan tanto al incremento de la productividad como a la protección de los recursos naturales y la seguridad alimentaria, siendo fundamentales para el cultivo del plátano y otros sistemas agrícolas de importancia económica y social.
+        p.mb-0 Representan dos categorías de insumos agrícolas que, aunque con naturalezas y funciones diferentes, son esenciales para la productividad y sostenibilidad del sector agrícola. En el marco de las buenas prácticas agrícolas (BPA), ambos insumos deben manejarse de forma responsable y técnica, de modo que contribuyan tanto al incremento de la productividad como a la protección de los recursos naturales y la seguridad alimentaria, siendo fundamentales para el cultivo del plátano y otros sistemas agrícolas de importancia económica y social.
 
     .fullwidth-bg.fullwidth-bg--1
     h4(data-aos='zoom-in-right').mb-5.z-2
@@ -101,7 +101,7 @@
 
           .tarjeta.bg-palmera.p-4.pt-5(titulo="Biofertilizantes")
             h4.mb-4 Biofertilizantes
-            p insumos biológicos basados en microorganismos (ej. <em>Rhizobium, Azotobacter</em>, micorrizas) que mejoran la disponibilidad de nutrientes y la salud del suelo.
+            p Insumos biológicos basados en microorganismos (ej. <em>Rhizobium, Azotobacter</em>, micorrizas) que mejoran la disponibilidad de nutrientes y la salud del suelo.
 
 
 </template>

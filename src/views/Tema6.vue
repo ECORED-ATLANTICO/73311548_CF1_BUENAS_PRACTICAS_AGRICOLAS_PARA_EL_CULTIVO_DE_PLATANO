@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema6/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La implementación de las Buenas Prácticas Agrícolas (BPA) no se limita únicamente al cumplimiento de normas técnicas, sino que constituye un proceso integral que involucra aspectos productivos, ambientales, sociales y administrativos en la gestión agrícola. Estos requisitos buscan asegurar que los productos obtenidos sean inocuos, de calidad, sostenibles y competitivos en el mercado. Para ello, se deben considerar elementos clave como la adecuación y mantenimiento de instalaciones, la correcta gestión de insumos y equipos, el uso responsable del agua y del suelo, la selección adecuada de semillas y el manejo eficiente de materias primas. En conjunto, estas condiciones permiten optimizar la productividad, proteger la salud de los consumidores, garantizar la seguridad de los trabajadores y mitigar los impactos negativos sobre el medio ambiente.
+        p.mb-0 La implementación de las buenas prácticas agrícolas (BPA) no se limita únicamente al cumplimiento de normas técnicas, sino que constituye un proceso integral que involucra aspectos productivos, ambientales, sociales y administrativos en la gestión agrícola. Estos requisitos buscan asegurar que los productos obtenidos sean inocuos, de calidad, sostenibles y competitivos en el mercado. Para ello, se deben considerar elementos clave como la adecuación y mantenimiento de instalaciones, la correcta gestión de insumos y equipos, el uso responsable del agua y del suelo, la selección adecuada de semillas y el manejo eficiente de materias primas. En conjunto, estas condiciones permiten optimizar la productividad, proteger la salud de los consumidores, garantizar la seguridad de los trabajadores y mitigar los impactos negativos sobre el medio ambiente.
 
     Separador
 
@@ -31,7 +31,7 @@
             ul.checklist
               li Las instalaciones deben situarse en lugares seguros, lejos de fuentes de contaminación como basureros, aguas residuales, zonas industriales o áreas con alta aplicación de plaguicidas.
               li El diseño debe contemplar áreas diferenciadas para almacenamiento de insumos, manipulación de cosecha, oficinas y espacios de descanso, evitando el cruce entre actividades limpias y contaminantes.
-              li Los accesos deben estar controlados y señalizados, permitiendo la identificación clara de cada zona
+              li Los accesos deben estar controlados y señalizados, permitiendo la identificación clara de cada zona.
 
         .row.align-items-center.justify-content-center
           .col-sm-8.col-lg-5.col-xl-4
@@ -66,7 +66,7 @@
             ul.checklist
               li Contar con puntos de lavado de manos y estaciones de higiene.
               li Instalación de sistemas de control de plagas en bodegas y áreas de almacenamiento.
-              li Protocolos de limpieza y desinfección periódica en todas las instalaciones
+              li Protocolos de limpieza y desinfección periódica en todas las instalaciones.
         .row.align-items-center.justify-content-center
           .col-sm-8.col-lg-5.col-xl-4
             figure
@@ -320,7 +320,7 @@
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        p.mb-4.mb-lg-0 La semilla es el punto de partida de todo proceso agrícola, y en el caso del plátano se refiere al material de propagación (cormos, hijuelos) o vitroplantas. Estas últimas son plantas que se producen mediante un método de propagación in vitro (dentro de un laboratorio, en condiciones controladas), utilizando técnicas de biotecnología vegetal.
+        p.mb-4.mb-lg-0 La semilla es el punto de partida de todo proceso agrícola, y en el caso del plátano se refiere al material de propagación (cormos, hijuelos) o vitroplantas. Estas últimas son plantas que se producen mediante un método de propagación <em>in vitro</em> (dentro de un laboratorio, en condiciones controladas), utilizando técnicas de biotecnología vegetal.
       .col-sm-8.col-lg-4
         figure
           img(src='@/assets/curso/temas/tema6/34.png', alt='Imagen ilustrativa' data-aos='fade-down') 
@@ -404,7 +404,7 @@
               h5 Fertilizantes y enmiendas
               ul.checklist
                 li <strong>Fertilizantes químicos</strong>: urea, NPK (nitrógeno, fosforo y potasio) entre otros para suplir nutrientes.
-                li <strong>Fertilizantes orgánicos</strong>: compost, estiércol bocashi, humus de lombriz.
+                li <strong>Fertilizantes orgánicos</strong>: compost, estiércol <em>bocashi</em>, humus de lombriz.
                 li <strong>Enmiendas de suelo</strong>: cal agrícola, yeso, domolita, usadas para corregir pH y mejorar la estructura del suelo.
 
         .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")

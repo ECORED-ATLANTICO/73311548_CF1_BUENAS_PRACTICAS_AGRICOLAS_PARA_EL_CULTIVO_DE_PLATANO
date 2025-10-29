@@ -3,7 +3,7 @@ export default {
     Name:
       'Generalidades de las prácticas agrícolas para el cultivo del plátano. ',
     Description:
-      'Las prácticas agrícolas para el cultivo del plátano son un conjunto de técnicas y métodos utilizados para cultivar, cuidar y cosechar esta planta de manera eficiente y sostenible. Estas prácticas incluyen la selección adecuada del terreno, la preparación del suelo, la siembra de hijuelos, el riego, la fertilización, el control de plagas y enfermedades, la poda y el manejo postcosecha. ',
+      'Las prácticas agrícolas para el cultivo del plátano son un conjunto de técnicas y métodos utilizados para cultivar, cuidar y cosechar esta planta de manera eficiente y sostenible. Estas prácticas incluyen la selección adecuada del terreno, la preparación del suelo, la siembra de hijuelos, el riego, la fertilización, el control de plagas y enfermedades, la poda y el manejo poscosecha. ',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -245,7 +245,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Agrosavia. (s. f.). <em>Capítulo III: Generalidades Buenas Prácticas Agrícolas (BPA)</em>.',
+        'Agrosavia. (s. f.). <em>Capítulo III: Generalidades Buenas prácticas agrícolas (BPA)</em>.',
       link:
         'https://editorial.agrosavia.co/index.php/publicaciones/catalog/download/162/147/1122-1?inline=1 editorial.agrosavia.co',
     },
@@ -256,12 +256,12 @@ export default {
     },
     {
       referencia:
-        'Buenas Prácticas Agrícolas para frutas, hierbas aromáticas culinarias y hortalizas frescas (NTC 5400). (2005, 27 de julio). <em>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC), 2005, 02 de agosto.</em>',
+        'Buenas prácticas agrícolas para frutas, hierbas aromáticas culinarias y hortalizas frescas (NTC 5400). (2005, 27 de julio). <em>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC), 2005, 02 de agosto.</em>',
       link: '',
     },
     {
       referencia:
-        'FAO. (2011). <em>Buenas Prácticas Agrícolas (BPA): de la teoría a la práctica</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
+        'FAO. (2011). <em>Buenas prácticas agrícolas (BPA): de la teoría a la práctica</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
       link: 'https://www.fao.org/4/a1374s/a1374s02.pdf',
     },
     {
@@ -272,7 +272,7 @@ export default {
     },
     {
       referencia:
-        'Moreno, J., Candanoza, J. y Olarte, F. (2009). <em>Buenas Prácticas Agrícolas en el de cultivo de plátano de exportación en la región de Urabá</em>. Medellín, Colombia: Comunicaciones Augura.',
+        'Moreno, J., Candanoza, J. y Olarte, F. (2009). <em>Buenas prácticas agrícolas en el de cultivo de plátano de exportación en la región de Urabá</em>. Medellín, Colombia: Comunicaciones Augura.',
       link: '',
     },
     {

@@ -11,7 +11,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema5/1.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La seguridad y el bienestar social del trabajador agrícola constituyen un eje fundamental dentro de las Buenas Prácticas Agrícolas (BPA) y de la gestión sostenible en el cultivo del plátano. Garantizar condiciones adecuadas de salud, seguridad y desarrollo social no solo protege a la fuerza laboral, sino que también contribuye a la calidad del producto y al cumplimiento de normativas nacionales e internacionales.
+        p.mb-0 La seguridad y el bienestar social del trabajador agrícola constituyen un eje fundamental dentro de las buenas prácticas agrícolas (BPA) y de la gestión sostenible en el cultivo del plátano. Garantizar condiciones adecuadas de salud, seguridad y desarrollo social no solo protege a la fuerza laboral, sino que también contribuye a la calidad del producto y al cumplimiento de normativas nacionales e internacionales.
 
     h4(data-aos='zoom-in-right').mb-5
       span.banana-title Seguridad en el trabajo agrícola

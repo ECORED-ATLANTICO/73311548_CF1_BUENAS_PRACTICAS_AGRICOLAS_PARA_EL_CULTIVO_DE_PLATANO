@@ -23,8 +23,8 @@
     
     figure.mb-5
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/sFjg8f_ehb0" title="Generalidades de las prácticas agrícolas para el cultivo del plátano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Generalidades de las prácticas agrícolas para el cultivo del plátano
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/sFjg8f_ehb0" title="Generalidades de las prácticas agrícolas para el cultivo del plátano" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen referrerpolicy="strict-origin-when-cross-origin")
+      figcaption Video: generalidades de las prácticas agrícolas para el cultivo del plátano
 
 </template>
 

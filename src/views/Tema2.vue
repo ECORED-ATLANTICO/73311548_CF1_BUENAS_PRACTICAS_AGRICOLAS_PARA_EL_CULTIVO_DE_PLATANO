@@ -16,7 +16,7 @@
         .p-4.bg-color-primario-p10.rounded-3
           .row.align-items-center.justify-content-between
             .col-lg-9
-              p En primer lugar, la calidad está estrechamente relacionada con la inocuidad alimentaria, entendida como la producción de alimentos libres de contaminantes físicos, químicos o biológicos que puedan afectar la salud. Para ello, se implementan protocolos como las Buenas Prácticas Agrícolas (BPA) y la trazabilidad, que permiten controlar y documentar cada etapa del proceso productivo.
+              p En primer lugar, la calidad está estrechamente relacionada con la inocuidad alimentaria, entendida como la producción de alimentos libres de contaminantes físicos, químicos o biológicos que puedan afectar la salud. Para ello, se implementan protocolos como las buenas prácticas agrícolas (BPA) y la trazabilidad, que permiten controlar y documentar cada etapa del proceso productivo.
             .d-none.d-lg-block.col-lg-3
               figure
                 img.mb-4.mb-lg-0.w-101(src='@/assets/curso/temas/tema2/2.png', alt='Imagen ilustrativa' data-aos="fade-down")
@@ -77,7 +77,7 @@
                 img(src='@/assets/curso/temas/tema2/7.png', alt='Imagen decorativa' data-aos="fade-left")
 
           h3.text-center.mb-4 GLOBALG.A.P
-          p GlobalG.A.P. es una norma internacional que certifica las Buenas Prácticas Agrícolas. Su objetivo es garantizar la inocuidad de los alimentos, la sostenibilidad ambiental y el bienestar de los trabajadores en la producción agrícola, pecuaria y acuícola. Esta certificación abre oportunidades en mercados internacionales, pues es exigida por muchos compradores y cadenas de distribución en el mundo.
+          p GlobalG.A.P. es una norma internacional que certifica las buenas prácticas agrícolas. Su objetivo es garantizar la inocuidad de los alimentos, la sostenibilidad ambiental y el bienestar de los trabajadores en la producción agrícola, pecuaria y acuícola. Esta certificación abre oportunidades en mercados internacionales, pues es exigida por muchos compradores y cadenas de distribución en el mundo.
 </template>
 
 <script>

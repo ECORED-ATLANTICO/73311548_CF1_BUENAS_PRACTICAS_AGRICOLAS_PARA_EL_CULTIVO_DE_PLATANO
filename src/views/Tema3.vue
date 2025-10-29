@@ -61,7 +61,7 @@
         .row.align-items-center.justify-content-center
           .col-lg-7.mb-4.mb-lg-0
             h5.mb-4 Manejo integrado de plagas (MIP)
-            p.mb-0 Combinación de prácticas culturales, biológicas y químicas para reducir la incidencia de plagas de manera sostenible
+            p.mb-0 Combinación de prácticas culturales, biológicas y químicas para reducir la incidencia de plagas de manera sostenible.
           .col-sm-8.col-lg-4
             figure
               img.my-3(src='@/assets/curso/temas/tema3/6.png', alt='Imagen decorativa')
