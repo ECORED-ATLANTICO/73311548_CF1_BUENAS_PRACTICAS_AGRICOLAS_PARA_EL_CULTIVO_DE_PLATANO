@@ -100,7 +100,7 @@
             ul.checklist
               li Ubicación de áreas específicas, separadas de los cultivos, área de empaque y zona de descanso de los trabajadores.
               li El piso debe ser firme y fácil de limpiar.
-              li Las paredes y techos deben proteger de la humedad.
+              li Las paredes y techos, deben proteger de la humedad.
               li Contar con ventilación natural o forzada que evite acumulaciones de vapores tóxicos.
           .col-md-8.col-lg-3
             figure
@@ -112,9 +112,9 @@
             h4 Organización interna
             ul.checklist
               li Los insumos deben almacenarse en estanterías resistentes, nunca en contacto directo con el suelo.
-              li Se recomienda la separación por categorías: plaguicidas fertilizantes, bio insumos y equipos de aplicación.
+              li Se recomienda la separación por categorías: plaguicidas, fertilizantes, bioinsumos y equipos de aplicación.
               li Los productos deben estar identificados y etiquetados.
-              li Implementar el método PEPS (primero en entrar, primero en salir) para evitar vencimiento de productos.
+              li Implementar el método PEPS (primero en entrar, primero en salir) para evitar el vencimiento de productos.
           .col-md-8.col-lg-3
             figure
               img(src='@/assets/curso/temas/tema6/14.png', alt='Imagen decorativa')
@@ -139,7 +139,7 @@
             h4 Manejo de residuos y envases
             ul.checklist
               li Los envases vacíos deben enjuagarse, perforarse y almacenarse en contenedores específicos.
-              li Nunca deben desecharse en fuentes de aguas, y no mezclarse con basura con basura común.
+              li Nunca deben desecharse en fuentes de aguas, y no mezclarse con basura común.
               li Debe existir un convenio o plan con gestores autorizados para la recolección de residuos peligrosos.
           .col-md-8.col-lg-3
             figure
@@ -150,8 +150,8 @@
           .col-lg-7.mb-4.mb-lg-0
             h4 Documentación y trazabilidad
             ul.checklist
-              li Mantener registros actualizados del inventario de insumos: cantidades fechas de ingreso, uso y responsable.
-              li Documentar la aplicación en campo: lote, dosis, trabajador que lo aplico y condiciones climáticas.
+              li Mantener registros actualizados del inventario de insumos: cantidades, fechas de ingreso, uso y responsable.
+              li Documentar la aplicación en campo: lote, dosis, trabajador que lo aplicó y condiciones climáticas.
               li Los registros facilitan auditorias, certificaciones y garantizan la trazabilidad en toda la cadena de producción.
           .col-md-8.col-lg-3
             figure
@@ -389,56 +389,56 @@
               img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
           .col-lg-7
             .p-4.rounded-3.bg-color-primario
-              h5 Material de propagación (semillas o plantulas)
+              h5 Material de propagación (semillas o plántulas)
               ul.checklist
                 li <strong>Hijuelos</strong>: brotes laterales de plantas madres sanas.
-                li <strong>Vitroplantas</strong>: plantas obtenidos por bio tecnología, libres de plagas y enfermedades.
+                li <strong>Vitroplantas</strong>: plantas obtenidas por biotecnología, libres de plagas y enfermedades.
                 li <strong>Semillas certificadas</strong>: avaladas por instituciones como el ICA en Colombia que garanticen sanidad y calidad genética.
                 
         .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
           .col-8.col-md-6.col-lg-4
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/41.png', alt='Imagen de acompañamiento')
           .col-lg-7
             .p-4.rounded-3.bg-color-primario
               h5 Fertilizantes y enmiendas
               ul.checklist
-                li <strong>Fertilizantes químicos</strong>: urea, NPK (nitrógeno, fosforo y potasio) entre otros para suplir nutrientes.
+                li <strong>Fertilizantes químicos</strong>: urea, NPK (nitrógeno, fósforo y potasio) entre otros para suplir nutrientes.
                 li <strong>Fertilizantes orgánicos</strong>: compost, estiércol <em>bocashi</em>, humus de lombriz.
                 li <strong>Enmiendas de suelo</strong>: cal agrícola, yeso, domolita, usadas para corregir pH y mejorar la estructura del suelo.
 
         .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
           .col-8.col-md-6.col-lg-4
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/42.png', alt='Imagen de acompañamiento')
           .col-lg-7
             .p-4.rounded-3.bg-color-primario
               h5 Plaguicidas y bioinsumos
               ul.checklist
                 li <strong>Plaguicidas químicos</strong>: insecticidas, fungicidas y herbicidas registrados y autorizados.
-                li <strong>Bioinsumos</strong>: biocontroladores (hongos, bacterias benéficas extractos vegetales) que ayudan a reducir plagas y enfermedades.
+                li <strong>Bioinsumos</strong>: biocontroladores (hongos, bacterias benéficas, extractos vegetales) que ayudan a reducir plagas y enfermedades.
                 li <strong>Trampas y feromonas</strong>: herramientas para  manejo integrado de plagas. (MIP).
 
         .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
           .col-8.col-md-6.col-lg-4
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/43.png', alt='Imagen de acompañamiento')
           .col-lg-7
             .p-4.rounded-3.bg-color-primario
               h5 Agua para riego
               ul.checklist
-                li Es considerada una materia prima critica
-                li Debe provenir de fuentes limpias libre de contaminantes y cumplir parametros de inocuidad establecidos por la NTC 5400 y estandares internacionales.
+                li Es considerada una materia prima crítica
+                li Debe provenir de fuentes limpias, libre de contaminantes y cumplir parametros de inocuidad establecidos por la NTC 5400 y estandares internacionales.
 
         .row.justify-content-center.justify-content-lg-end.align-items-center(titulo="")
           .col-8.col-md-6.col-lg-4
             figure
-              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/40.png', alt='Imagen de acompañamiento')
+              img.mb-4.mb-lg-0(src='@/assets/curso/temas/tema6/44.png', alt='Imagen de acompañamiento')
           .col-lg-7
             .p-4.rounded-3.bg-color-primario
               h5 Otros insumos agrícolas complementarios
               ul.checklist
-                li <strong>Sustratos</strong>: mezclas de tierra cascarilla de arroz, avena  usados para viveros.
+                li <strong>Sustratos</strong>: mezclas de tierra, cascarilla de arroz, avena  usados para viveros.
                 li <strong>Plásticos agrícolas</strong>: bolsas para viveros, coberturas de suelo.
                 li <strong>Tutorado y amarre</strong>: cuerdas, estacas o materiales de soporte para el cultivo.
 

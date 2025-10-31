@@ -85,7 +85,7 @@
         TabsA.color-acento-botones
           .tarjeta.bg-palmera.p-4.pt-5(titulo="Compost")
             h5.mb-4 Compost
-            p Resultado de la descomposición aeróbica de residuos orgánicos vegetales y animales, rico en materia orgánica estable.
+            p Resultado de la descomposición aeróbica de residuos orgánicos, vegetales y animales, rico en materia orgánica estable.
 
           .tarjeta.bg-palmera.p-4.pt-5(titulo="Estiércol compostado")
             h4.mb-4 Estiércol compostado

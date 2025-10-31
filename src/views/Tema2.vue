@@ -54,7 +54,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema2/5.png', alt='Imagen decorativa' data-aos="fade-right")
+                img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen decorativa' data-aos="fade-right")
 
           h3.text-center.mb-4 ICA
           p Instituto Colombiano Agropecuario (ICA) es la autoridad sanitaria y fitosanitaria de Colombia. Su función principal es vigilar, regular y certificar la producción agrícola y pecuaria, garantizando la inocuidad, la sanidad vegetal y la calidad de los productos. Además, es el ente encargado de otorgar la certificación en buenas prácticas agrícolas (BPA) a los productores que cumplen con los requisitos establecidos.
@@ -64,7 +64,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema2/6.png', alt='Imagen decorativa' data-aos="fade-down")
+                img(src='@/assets/curso/temas/tema2/7.png', alt='Imagen decorativa' data-aos="fade-down")
 
           h3.text-center.mb-4 ICONTEC
           p Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) es una entidad que lidera en Colombia la normalización, certificación y metrología. Su labor principal es establecer normas técnicas y otorgar certificaciones de calidad, seguridad e inocuidad a diferentes sectores, incluido el agrícola. A través de sus certificaciones, respalda que los procesos productivos cumplan con estándares nacionales e internacionales.
@@ -74,7 +74,7 @@
           .row.justify-content-center.mb-3
             .col-5
               figure
-                img(src='@/assets/curso/temas/tema2/7.png', alt='Imagen decorativa' data-aos="fade-left")
+                img(src='@/assets/curso/temas/tema2/5.png', alt='Imagen decorativa' data-aos="fade-left")
 
           h3.text-center.mb-4 GLOBALG.A.P
           p GlobalG.A.P. es una norma internacional que certifica las buenas prácticas agrícolas. Su objetivo es garantizar la inocuidad de los alimentos, la sostenibilidad ambiental y el bienestar de los trabajadores en la producción agrícola, pecuaria y acuícola. Esta certificación abre oportunidades en mercados internacionales, pues es exigida por muchos compradores y cadenas de distribución en el mundo.

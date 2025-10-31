@@ -94,7 +94,7 @@
               img.my-3(src='@/assets/curso/temas/tema3/10.png', alt='Imagen decorativa')
 
     h4(data-aos='zoom-in-right').mb-5
-      span.banana-title Importancia de la Inocuidad y la Protección Sanitaria
+      span.banana-title Importancia de la inocuidad y la protección sanitaria
 
     .cajon.color-secundario.p-4.mb-5
       p La inocuidad y la protección sanitaria en la producción agrícola, especialmente en cultivos como el plátano, son fundamentales para garantizar alimentos seguros, libres de contaminantes y con calidad óptima para el consumo humano. Su importancia radica en:

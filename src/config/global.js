@@ -149,7 +149,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF1_73311548.pdf',
+        download: 'downloads/CF1_73311548_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -165,19 +165,11 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Generalidades de las prácticas agrícolas para el cultivo del plátano',
-      referencia: 'Ecosistema recursos SENA [Video]. YouTube.',
-      tipo: 'Video',
-      link:
-        'https://www.youtube.com/watch?v=sFjg8f_ehb0&t=2s&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA',
-    },
-    {
-      tema: 'Guía práctica para el cultivo del plátano.',
+      tema: 'Requisitos para la implementación de las BPA',
       referencia: 'Biblioteca Digital Agropecuaria de Colombia',
       tipo: 'Artículo',
       link:
-        'https://repository.agrosavia.co/handle/20.500.12324/11689?utm_source=chatgpt.com',
+        'https://repository.agrosavia.co/items/6b482c45-663f-4dbd-b2bc-68257f24e95c',
     },
   ],
   glosario: [
@@ -251,18 +243,8 @@ export default {
     },
     {
       referencia:
-        'Castañeda Sánchez, D. A., Valenzuela Vergara, E., Gilchrist Ramelli, E., & Cano Londoño, N. (2016). <em>Buenas prácticas ambientales en el cultivo del plátano. Medellín, Colombia</em>',
-      link: '',
-    },
-    {
-      referencia:
         'Buenas prácticas agrícolas para frutas, hierbas aromáticas culinarias y hortalizas frescas (NTC 5400). (2005, 27 de julio). <em>Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC), 2005, 02 de agosto.</em>',
       link: '',
-    },
-    {
-      referencia:
-        'FAO. (2011). <em>Buenas prácticas agrícolas (BPA): de la teoría a la práctica</em>. Organización de las Naciones Unidas para la Alimentación y la Agricultura.',
-      link: 'https://www.fao.org/4/a1374s/a1374s02.pdf',
     },
     {
       referencia:
@@ -302,12 +284,12 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yasmín Andreina Maldonado Escobar',
-          cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+          nombre: 'Paola Andrea Bobadilla Gutiérrez',
+          cargo: 'Guionista línea de producción',
+          centro: 'Centro Agroindustrial - Regional Quindío',
         },
         {
-          nombre: 'Heydy Cristina González García',
+          nombre: 'Jair Coll Gallardo',
           cargo: 'Evaluador instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -317,8 +299,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Diseñador web',
+          nombre: 'Andrés Felipe Herrera Roldan',
+          cargo: 'Diseñador <em>web</em>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -327,7 +309,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Alexander Rafael Acosta Bedoya',
+          nombre: 'Nelson Iván Vera Briceño',
           cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
